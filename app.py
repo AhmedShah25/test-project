@@ -1,1 +1,2 @@
-print{"hello ahmed shah"}
+print{"hello ahmed shah"} 
+print{"ahmedshah"}
